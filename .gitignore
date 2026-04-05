@@ -1,0 +1,22 @@
+# Thesis documents
+*.docx
+*.pdf
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
+
+# Working folders
+antes de forma de escribir/
+forma escribir/
+
+# Temporary/backup files
+figure1_original.png
+figure1_new.png
+thesis_final_backup.docx
+old_structure.md
+thesis_rewrite_sections.md
+feedback-profesor.txt
+p&g final.pdf
+README_notebooks_corregidos.md

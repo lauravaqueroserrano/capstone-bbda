@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scipy
+requests
+pyarrow
+vaderSentiment
+yfinance
+pandas_datareader
+basketball_reference_web_scraper
+transformers  # opcional
+google-search-results  # SerpApi client

@@ -1,0 +1,12 @@
+market_type,total,closed,resolvable,avg_volume,pct
+weekly_above,2384,2254,2254,"$7,528",26.2
+weekly_range,1991,1892,1892,"$5,575",21.9
+daily_close_above,1285,1250,1250,"$8,128",14.1
+daily_updown,1148,1124,1124,"$13,521",12.6
+monthly_above,669,542,542,"$16,512",7.4
+monthly_hit,515,410,403,"$27,560",5.7
+monthly_dip,388,300,293,"$22,522",4.3
+performance_rank,345,345,0,$321,3.8
+other,295,290,0,"$93,188",3.2
+yearly_range,67,67,67,"$22,819",0.7
+sp500_ath,3,2,0,"$97,007",0.0

@@ -1,0 +1,4 @@
+volume_group,n,brier,ece,volume_range,base_rate
+Low Volume,1742,0.1285,0.0662,"$3–$2,370",0.3708
+Medium Volume,1741,0.1068,0.0546,"$2,370–$6,954",0.3797
+High Volume,1742,0.1582,0.0345,"$6,957–$720,911",0.4191
